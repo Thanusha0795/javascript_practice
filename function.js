@@ -3,4 +3,4 @@ function add(a, b) {
     return sum
 } console.log(add(5, 4))
 
-//console.log(5+3)
+console.log(5+3)
